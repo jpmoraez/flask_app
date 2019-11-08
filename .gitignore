@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.ls.swp
+.vscode/settings.json
